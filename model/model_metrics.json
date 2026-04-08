@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.854,
+  "precision": 0.576,
+  "recall": 0.528,
+  "f1_score": 0.551,
+  "roc_auc": 0.804,
+  "threshold": 0.44,
+  "python_version": "3.13",
+  "sklearn_version": "1.8.0"
+}
