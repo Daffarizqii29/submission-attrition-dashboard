@@ -36,7 +36,7 @@ Dataset yang digunakan adalah file dataset yang disediakan pada halaman submissi
 
 ### Setup environment
 
-Proyek ini diuji menggunakan **Python 3.13.5**.
+Proyek ini diuji menggunakan **Python 3.11**.
 
 ```bash
 python -m venv .venv
@@ -82,7 +82,11 @@ python prediction.py --input examples/input_3_karyawan.csv --output examples/out
 
 ## Business Dashboard
 
-Dashboard dapat dijalankan dari file berikut:
+Dashboard dapat dijalankan secara online melalui:
+
+- https://submission-attrition-dashboard-jhk4bzdzqmgwdpcvs4efux.streamlit.app/
+
+Atau secara lokal melalui:
 
 - `dashboard/streamlit_app.py`
 
